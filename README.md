@@ -126,7 +126,4 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
 </div>
 
 ###
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
