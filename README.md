@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rarihant14.rarihant14&left_text=python%20" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rarihant14.rarihant14&left_text=python%13" />
 </div>
 
 ###
@@ -105,6 +105,10 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=Traveling-Agents&theme=dracula" />
 </a>
 
+<a href="https://github.com/rarihant14/Venture_GPT" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=Venture_GPT&theme=dracula" />
+</a>
+
 </div>
 
 ###
@@ -123,5 +127,3 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </div>
-
-
