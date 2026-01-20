@@ -2,21 +2,19 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=WELCOME%20TO%20MY%20PROFILE!&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rarihant14.rarihant14&left_text=python" />
-</div>
-
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agentic-AI+Developer;AI+Engineer;Python+Developer;RAG+Builder;Multi-Agent+Systems)](https://git.io/typing-svg)
 
 </div>
+
+###
+
+###
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+
 
 ###
 
