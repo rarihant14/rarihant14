@@ -18,7 +18,7 @@
 
 </div>
 
----
+--
 
 <p align="left">My name is Arihant Rathod ... and I'm from Pune, Maharashtra.</p>
 
@@ -30,14 +30,14 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
 </h4>
 
 ###
--
+--
 <p align="left">
 📚 I’m currently learning Agentic AI, RAG, and real-time AI systems<br>
 🎯 Goals: Build scalable AI products and impactful automation tools<br>
 🎲 Fun fact: I enjoy turning complex AI ideas into simple working apps
 </p>
 
--
+--
 
 <h2 align="left">Tech I Know :</h2>
 
@@ -67,7 +67,7 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" />
 </div>
 
--
+--
 
 <h2 align="left">🚀 Featured Projects :</h2>
 
@@ -95,18 +95,18 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
 
 </div>
 
--
+--
 
 <img src="https://raw.githubusercontent.com/rarihant14/rarihant14/output/snake.svg" alt="Snake animation" />
 
--
+--
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rarihant14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarihant14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-
+--
 
 <h2 align="center">🤝 Connect With Me</h2>
 
