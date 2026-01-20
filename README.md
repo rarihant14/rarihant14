@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rarihant14.rarihant14&left_text=python%3.13" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rarihant14.rarihant14&left_text=python" />
 </div>
 
 ###
