@@ -2,19 +2,21 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=WELCOME%20TO%20MY%20PROFILE!&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agentic-AI+Developer;AI+Engineer;Python+Developer;RAG+Builder;Multi-Agent+Systems)](https://git.io/typing-svg)
-
-</div>
-
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rarihant14.rarihant14&left_text=python%20" />
+</div>
 
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agentic-AI+Developer;AI+Engineer;Python+Developer;RAG+Builder;Multi-Agent+Systems)](https://git.io/typing-svg)
+
+</div>
 
 ###
 
@@ -83,6 +85,30 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
 
 ###
 
+<h2 align="left">🚀 Featured Projects :</h2>
+
+<div align="center">
+
+<a href="https://github.com/rarihant14/MedQuery-AI" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=MedQuery-AI&theme=dracula" />
+</a>
+
+<a href="https://github.com/rarihant14/Netflix-Insights-Machine-Learning-Analysis" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=Netflix-Insights-Machine-Learning-Analysis&theme=dracula" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/rarihant14/Traveling-Agents" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=Traveling-Agents&theme=dracula" />
+</a>
+
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/rarihant14/rarihant14/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -92,5 +118,10 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarihant14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+</div>
+
 
