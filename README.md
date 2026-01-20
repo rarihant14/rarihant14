@@ -9,16 +9,10 @@
 </div>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
+###
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -28,11 +22,7 @@
 
 </div>
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
+###
 
 <p align="left">My name is Arihant Rathod ... and I'm from Pune, Maharashtra.</p>
 
@@ -51,31 +41,7 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
 🎲 Fun fact: I enjoy turning complex AI ideas into simple working apps
 </p>
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-<div align="left">
-  <a href="mailto:rarihant14@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/arihant-rathod-ai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-
-  <a href="https://medium.com/@ThinkGen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
-  </a>
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
+###
 
 <h2 align="left">Tech I Know :</h2>
 
@@ -105,11 +71,7 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" />
 </div>
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
+###
 
 <h2 align="left">🚀 Featured Projects :</h2>
 
@@ -137,23 +99,37 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
 
 </div>
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
+###
 
 <img src="https://raw.githubusercontent.com/rarihant14/rarihant14/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rarihant14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarihant14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+###
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+  <a href="mailto:rarihant14@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/arihant-rathod-ai" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="https://medium.com/@ThinkGen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+  </a>
+
+  <a href="https://github.com/rarihant14" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+  </a>
 </div>
 
 ###
