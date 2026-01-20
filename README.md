@@ -8,10 +8,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rarihant14.rarihant14&left_text=python%20" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -20,6 +16,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agentic-AI+Developer;AI+Engineer;Python+Developer;RAG+Builder;Multi-Agent+Systems)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ###
@@ -126,10 +126,7 @@ Passionate about building AI-powered applications. I work on Agentic AI systems,
   <a href="https://medium.com/@ThinkGen" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
   </a>
-
-  <a href="https://github.com/rarihant14" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
-  </a>
+  
 </div>
 
 ###
