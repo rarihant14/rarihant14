@@ -20,7 +20,7 @@
 
 --
 
-<p align="left">MySelf Arihant Rathod , I'm from Pune, Maharashtra.</p>
+<p align="left">MySelf Arihant Rathod from Pune, Maharashtra.</p>
 
 ###
 
