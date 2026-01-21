@@ -20,16 +20,11 @@
 
 --
 
-<p align="left">My name is Arihant Rathod ... and I'm from Pune, Maharashtra.</p>
+<p align="left">MySelf Arihant Rathod , I'm from Pune, Maharashtra.</p>
 
 ###
 
-<h4 align="left">
-About me : <br>
-Passionate about building AI-powered applications. I work on Agentic AI systems, RAG-based research tools, and real-time analytics projects using Python, Streamlit, CrewAI, LangChain, LangGraph and APIs. I’m always eager to learn, collaborate, and create impactful solutions with AI.
-</h4>
 
-###
 --
 <p align="left">
 📚 I’m currently learning Agentic AI, RAG, and real-time AI systems<br>
