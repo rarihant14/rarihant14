@@ -85,7 +85,8 @@
 </a>
 
 <a href="https://github.com/rarihant14/Venture_GPT" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=Venture_GPT&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=humanizer-ai
+&theme=dracula" />
 </a>
 
 </div>
