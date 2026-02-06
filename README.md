@@ -64,31 +64,6 @@
 
 --
 
-<h2 align="left">🚀 Featured Projects :</h2>
-
-<div align="center">
-
-<a href="https://github.com/rarihant14/MedQuery-AI" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=MedQuery-AI&theme=dracula" />
-</a>
-
-<a href="https://github.com/rarihant14/Netflix-Insights-Machine-Learning-Analysis" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=Netflix-Insights-Machine-Learning-Analysis&theme=dracula" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/rarihant14/Traveling-Agents" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=Traveling-Agents&theme=dracula" />
-</a>
-
-<a href="https://github.com/rarihant14/Venture_GPT" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rarihant14&repo=humanizer-ai
-&theme=dracula" />
-</a>
-
 </div>
 
 --
