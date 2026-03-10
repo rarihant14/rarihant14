@@ -107,13 +107,15 @@ https://arihantrathod.bolt.host/
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
 
 <a href="mailto:rarihant14@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/arihant-rathod-aii">
+<a href="https://www.linkedin.com/in/arihant-rathod-ai">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -121,8 +123,10 @@ https://arihantrathod.bolt.host/
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://arihantrathod.bolt.host/">
+<img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
----
+</p>
 
 ⭐ *Always open to collaborating on interesting AI projects.*
