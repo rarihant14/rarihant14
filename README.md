@@ -14,109 +14,40 @@
 
 ## 👋 About Me
 
-I’m **Arihant Rathod**, an AI/ML developer from **Pune, India** focused on building **real AI systems and automation products**.
+I’m **Arihant Rathod**, an AI/ML developer from **Pune, India**.
 
-My work revolves around:
+I focus on building **real AI systems and automation products**, including:
 
-- 🤖 **Agentic AI Systems**
-- 🧠 **Retrieval Augmented Generation (RAG)**
-- ⚡ **Multi-Agent Architectures**
-- 📊 **Machine Learning & Deep Learning**
-- 🧩 **AI-powered web applications**
+- 🤖 Agentic AI systems  
+- 🧠 Retrieval Augmented Generation (RAG)  
+- ⚡ Multi-agent architectures  
+- 📊 Machine learning applications  
+- 🧩 AI-powered automation tools  
 
-I enjoy turning **complex AI ideas into simple, working products.**
-
----
-
-## 🚀 Current Focus
-
-- Building **Autonomous AI Agents**
-- Developing **Real-time AI Applications**
-- Creating **RAG-based research systems**
-- Exploring **AI automation & product development**
+I enjoy turning **complex AI ideas into simple working applications.**
 
 ---
 
-## 🧠 AI & ML Stack
+## 📚 Currently Learning
 
-### Languages
-- Python
-
-### Machine Learning
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-
-### AI Systems
-- LangChain  
-- RAG Pipelines  
-- Multi-Agent Systems  
-
-### Backend
-- FastAPI  
-- PostgreSQL  
-- Supabase  
-
-### Dev Tools
-- Docker  
-- Git  
-- Jupyter  
-
----
-
-## ⚙️ Tech Stack
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rarihant14&show_icons=true&theme=dracula" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarihant14&layout=compact&theme=dracula" height="160"/>
-
-</div>
+- Agentic AI  
+- Real-time AI systems  
+- Scalable AI architectures  
 
 ---
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/rarihant14/rarihant14/output/snake.svg"/>
-
----
-
-## 🌐 Portfolio
-
-🔗 **Portfolio Website**  
-https://arihantrathod.bolt.host/
+<img src="https://raw.githubusercontent.com/rarihant14/rarihant14/output/snake.svg" />
 
 ---
 
 ## 🤝 Connect With Me
 
-## 🤝 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarihant14@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=rarihant14@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-rathod-ai)
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ThinkGen)
 
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arihantrathod.bolt.host/)
-
-</p>
-
-⭐ *Always open to collaborating on interesting AI projects.*
