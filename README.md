@@ -1,100 +1,128 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=WELCOME%20TO%20MY%20PROFILE!&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
-</div>
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=ARIHANT%20RATHOD&fontSize=45&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn" />
 </div>
 
---
-
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">AI Engineer | Agentic AI Developer | Python Developer</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agentic-AI+Developer;AI+Engineer;Python+Developer;RAG+Builder;Multi-Agent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agentic+AI+Developer;AI+Systems+Builder;RAG+Engineer;Multi-Agent+Systems;Python+Developer&center=true&width=500&height=45)](https://git.io/typing-svg)
 
 </div>
 
---
+---
 
-<p align="left">MySelf Arihant Rathod from Pune, Maharashtra.</p>
+## 👋 About Me
 
-###
+I’m **Arihant Rathod**, an AI/ML developer from **Pune, India** focused on building **real AI systems and automation products**.
 
+My work revolves around:
 
---
+- 🤖 **Agentic AI Systems**
+- 🧠 **Retrieval Augmented Generation (RAG)**
+- ⚡ **Multi-Agent Architectures**
+- 📊 **Machine Learning & Deep Learning**
+- 🧩 **AI-powered web applications**
+
+I enjoy turning **complex AI ideas into simple, working products.**
+
+---
+
+## 🚀 Current Focus
+
+- Building **Autonomous AI Agents**
+- Developing **Real-time AI Applications**
+- Creating **RAG-based research systems**
+- Exploring **AI automation & product development**
+
+---
+
+## 🧠 AI & ML Stack
+
+### Languages
+- Python
+
+### Machine Learning
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+
+### AI Systems
+- LangChain  
+- RAG Pipelines  
+- Multi-Agent Systems  
+
+### Backend
+- FastAPI  
+- PostgreSQL  
+- Supabase  
+
+### Dev Tools
+- Docker  
+- Git  
+- Jupyter  
+
+---
+
+## ⚙️ Tech Stack
+
 <p align="left">
-📚 I’m currently learning Agentic AI, RAG, and real-time AI systems<br>
-🎯 Goals: Build scalable AI products and impactful automation tools<br>
-🎲 Fun fact: I enjoy turning complex AI ideas into simple working apps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40"/>
 </p>
 
---
+---
 
-<h2 align="left">Tech I Know :</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="google logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" />
-</div>
-
---
-
-</div>
-
---
-
-<img src="https://raw.githubusercontent.com/rarihant14/rarihant14/output/snake.svg" alt="Snake animation" />
-
---
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarihant14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarihant14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rarihant14&show_icons=true&theme=dracula" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarihant14&layout=compact&theme=dracula" height="160"/>
+
 </div>
 
---
+---
 
-<h2 align="center">🤝 Connect With Me</h2>
+## 🐍 Contribution Snake
 
-<div align="center">
-  <a href="mailto:rarihant14@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+<img src="https://raw.githubusercontent.com/rarihant14/rarihant14/output/snake.svg"/>
 
-  <a href="https://www.linkedin.com/in/arihant-rathod-ai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+---
 
-  <a href="https://medium.com/@ThinkGen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
-  </a>
-  
-</div>
+## 🌐 Portfolio
 
-###
+🔗 **Portfolio Website**  
+https://arihantrathod.bolt.host/
 
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rarihant14@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arihant-rathod-aii">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@ThinkGen">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Always open to collaborating on interesting AI projects.*
