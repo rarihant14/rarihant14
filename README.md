@@ -58,7 +58,7 @@ I enjoy turning **complex AI ideas into simple working applications.**
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://arihantrathod.bolt.host/">
+<a href="https://arihant-rathod-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
